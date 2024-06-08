@@ -7,7 +7,7 @@ Completed in 1 day.
 The Official predecessor/ only child of Drive Kas. 
 A hero we didnt deserve, but has to become one due to college pressure. 
 
-clone the repo to start.
+clone the repo and create a folder: uploads in the parent directory to start.
 
 Pass: abc for loging in to the dashboard.
 
